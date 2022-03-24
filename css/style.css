@@ -11,10 +11,10 @@
 *
 * ======================================================= */
 body {
-  font-family: "Space Mono", Arial, serif;
+  font-family:  'Rajdhani', Arial, serif;
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.7;
+  line-height: 1.8;
   color: #4d4d4d;
   background: #fff;
 }
@@ -47,7 +47,7 @@ body {
 }
 
 a {
-  color: #4b98ba;
+  color: rgb(0,99,143);
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -64,7 +64,7 @@ p {
 
 h1, h2, h3, h4, h5, h6, figure {
   color: #000;
-  font-family: "Space Mono", Arial, serif;
+  font-family: 'Rajdhani', Arial, serif;
   font-weight: 400;
   margin: 0 0 20px 0;
 }
@@ -72,19 +72,19 @@ h1, h2, h3, h4, h5, h6, figure {
 ::-webkit-selection {
   color: #fff;
   background: rgb(0,99,143);
-  background: linear-gradient(160deg, rgba(0,99,143,1) 10%, rgba(75,152,186,1) 50%, rgba(150,223,255,1) 90%);
+  background: rgb(0,99,143);
 }
 
 ::-moz-selection {
   color: #fff;
   background: rgb(0,99,143);
-  background: linear-gradient(160deg, rgba(0,99,143,1) 10%, rgba(75,152,186,1) 50%, rgba(150,223,255,1) 90%);
+  background: rgb(0,99,143);
 }
 
 ::selection {
   color: #fff;
   background: rgb(0,99,143);
-  background: linear-gradient(160deg, rgba(0,99,143,1) 10%, rgba(75,152,186,1) 50%, rgba(150,223,255,1) 90%);
+  background: rgb(0,99,143);
 }
 
 #fh5co-header,
@@ -1104,9 +1104,9 @@ input[type="text"] {
 .btn {
   margin-right: 4px;
   margin-bottom: 4px;
-  font-family: "Space Mono", Arial, serif;
+  font-family: 'Rajdhani', Arial, serif;
   font-size: 16px;
-  font-weight: 400;
+  font-weight: 00;
   -webkit-border-radius: 30px;
   -moz-border-radius: 30px;
   -ms-border-radius: 30px;
