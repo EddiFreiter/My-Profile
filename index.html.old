@@ -1,0 +1,692 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<meta name="robots" content="noindex">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Eddi Freiter Profile</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Profile Site of Eddi Freiter" />
+	<meta name="keywords" content="Full Stack Software Developer, Django, Javascript, Python, html5, css3, mobile first, responsive, freelancing" />
+	<meta name="author" content="Eddi Freiter" />
+
+	<link href="https://fonts.googleapis.com/css?family=Space+Mono" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+	
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="css/icomoon.css">
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="css/bootstrap.css">
+
+	<!-- Theme style  -->
+	<link rel="stylesheet" href="css/style.css">
+
+	<!-- Modernizr JS -->
+	<script src="js/modernizr-2.6.2.min.js"></script>
+	<!-- FOR IE9 below -->
+	<!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+
+	</head>
+	<body>
+		
+	<div class="fh5co-loader"></div>
+	
+	<div id="page">	
+	<header id="fh5co-header" class="fh5co-cover js-fullheight" role="banner" data-stellar-background-ratio="0.5">
+		<div class="overlay"></div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8 col-md-offset-2 text-center">
+					<div class="display-t js-fullheight">
+						<div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn">
+							<div class="profile-thumb" style="background: url(images/me.jpg);"></div>
+							<h1><span>Eddi Freiter</span></h1>
+							<h3><span><br><u>Senior R & D Lead</u> by day<br><u>Full Stack Software Developer</u> by night</span></h3>
+							<p>
+								<ul class="fh5co-social-icons">
+									<li><a href="https://twitter.com/EddiFreiter" target="_blank"><i class="icon-twitter2"></i></a></li>
+									<li><a href="https://github.com/EddiFreiter" target="_blank"><i class="icon-github2"></i></a></li>
+									<li><a href="https://www.linkedin.com/in/eddifreiter/" target="_blank"><i class="icon-linkedin2"></i></a></li>
+								</ul>
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+
+	<div id="fh5co-about" class="animate-box">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+					<h2>About Me</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4">
+					<ul class="info">
+						<li><span class="first-block">Full Name:</span><span class="second-block">Eddi Freiter</span></li>
+						<li><span class="first-block">Website:</span><span class="second-block">profile.freiter.com</span></li>
+					</ul>
+				</div>
+				<div class="col-md-8">
+					<h2>Hi, welcome to my site!</h2>
+					<p>I am a Senior Research and Development Lead by day and a Full Stack Software Developer by night.<br>My main focus is on 
+						improving workflows or machines. I have worked on improving workflows in production or writing software and scripts (using <strong>python & MS-SQL</strong>) to automate workflows and reduce time spent on manual entry.
+						<p>Over the 15 years at my current employment, I had the privilege to work on large machinery as well as manage small and large projects. Just before I completed my second diploma, I had the opportunity to start working on a web based software, that assisted our QC department in collecting data. This enabled data collection and reporting (Tools used were <strong>C#, ASP.NET, CSLA.NET, MS-SQL</strong>). 
+						It is a thrill to see a project come to life and save money and resources for the company, but equally I enjoy the hands-on contribution to any project.</p>
+						<p>For 12 years, on the side of my full-time day job, I was privileged with helping small business with their full Technology needs. I did the classic server, PC, network and phone system support. In addition, my background in electronics helped me to assist the clients with their specialty devices, like CNC machines or hearing testing devices.</p>
+						<p>Since my parents bought our first family computer, I was hooked on technology. Today, I operate my own "datacenter" located in my basement. It's a training ground to test and "play" with new technologies. I love self-hosting of services that improve my families life. Using my "datacenter" I learned to write scripts in <strong>bash to automate processes</strong> and learned about hosting, security, Linux Distro's (Debian based), networking and many other topics.
+					</p>
+					<p>
+						<ul class="fh5co-social-icons">
+							<li><a href="https://twitter.com/EddiFreiter" target="_blank"><i class="icon-twitter2"></i></a></li>
+							<li><a href="https://github.com/EddiFreiter" target="_blank"><i class="icon-github2"></i></a></li>
+							<li><a href="https://www.linkedin.com/in/eddifreiter/" target="_blank"><i class="icon-linkedin2"></i></a></li>
+						</ul>
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="fh5co-resume" class="fh5co-bg-color">
+		<div class="container">
+			<div class="row animate-box">
+				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+					<h2>My Resume/CV</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12 col-md-offset-0">
+					<ul class="timeline">
+						<li class="timeline-heading text-center animate-box">
+							<div><h3>Work Experience</h3></div>
+						</li>
+						<li class="animate-box timeline-unverted">
+							<div class="timeline-badge"><i class="icon-suitcase"></i></div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<h3 class="timeline-title">Senior Research & Development Lead</h3>
+									<span class="company"><a href="https://www.edmontonexchanger.com/" target="_blank">Edmonton Exchanger | 2022 - Present</a></span>
+								</div>
+								<div class="timeline-body">
+									<p>Identified our plate marking procedure to be slow and error prone. Implemented a marking system, that pulled production data from ERP system via a barcode. Plate error rate practically dropped to zero and increased marking speed on steel plate considerably.</p>
+									<p>Worked with payroll department to identify manual tasks that can be automated. Configured nesting software to output data. Wrote a python software that send data to the payroll software. This saved the payroll department a lot of manual entry and time in perpetuity.</p>
+								</div>
+							</div>
+						</li>
+						<li class="animate-box timeline-inverted">
+							<div class="timeline-badge"><i class="icon-suitcase"></i></div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<h3 class="timeline-title">Machine Automation Technician</h3>
+									<span class="company"><a href="https://www.edmontonexchanger.com/" target="_blank">Edmonton Exchanger | 2017 - 2022</a></span>
+								</div>
+								<div class="timeline-body">
+									<p>Used technical skills and hydraulic knowledge to assist maintenance department with computer, electronics and electrical support.</p>
+									<p>Implemented facility access control system and integrated into timekeeping system using python scripts.</p>
+									<p>Changed control system (Siemens LOGO) for hydraulic custom large vehicle vertical access gate.</p>
+								</div>
+							</div>
+						</li>
+						<li class="animate-box timeline-unverted">
+							<div class="timeline-badge"><i class="icon-suitcase"></i></div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<h3 class="timeline-title">Full-Stack Software Developer &<br>Automation Technician</h3>
+									<span class="company"><a href="https://www.edmontonexchanger.com/" target="_blank">Edmonton Exchanger | 2010 - 2017</a></span>
+								</div>
+								<div class="timeline-body">
+									<p>Identified the lack of a centralized database to collect inspection results form our Field Service QC division. 
+									Worked with QC department to understand software requirements. 
+									Build "eQC" software using C#, ASP.NET, CSLA.NET and MS-SQL.</p>
+									<p>Large hydraulic press did not run properly and at times, created unsafe work environment.<br>
+									Created electrical schematics, change all electrical systems and programmed new controller using Siemens (TIA) STEP7. 
+									Safety issue has been fixed and operator was more willing to work on the machine.</p>
+								</div>
+							</div>
+						</li>
+						<li class="animate-box timeline-inverted">
+							<div class="timeline-badge"><i class="icon-suitcase"></i></div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<h3 class="timeline-title">Computer Analyst</h3>
+									<span class="company"><a href="https://www.edmontonexchanger.com/" target="_blank">Edmonton Exchanger | 2007 - 2010</a></span>
+								</div>
+								<div class="timeline-body">
+									<p>Computer hardware and software support. Implemented video surveillance system. Came up with a process to streamline hardware rental by Edmonton Exchanger Field Division.</p>
+								</div>
+							</div>
+						</li>
+						<li class="animate-box timeline-unverted">
+							<div class="timeline-badge"><i class="icon-suitcase"></i></div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<h3 class="timeline-title">Entrepreneurial Experience</h3>
+									<span class="company"><a href="http://eddi.freiter.com" target="_blank">IT Consultant | 2008 - 2020</a></span>
+								</div>
+								<div class="timeline-body">
+									<p>Support Small businesses with their IT needs. Software/Hardware, Networks, Servers, Phone Systems, Cloud Service etc.</p>
+								</div>
+							</div>
+						</li>
+						<li class="timeline-inverted animate-box">
+							<div class="timeline-badge"><i class="icon-suitcase"></i></div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<h3 class="timeline-title">Drafter & HMI Design</h3>
+									<span class="company"><a href="https://www.magnaiv.com/" target="_blank">Magna IV Engineering | 2004 - 2007</a></span>
+								</div>
+								<div class="timeline-body">
+									<p>Drafting of electrical systems for Waste Water Plants and Material Handling Machinery. Design of HMI (Human-Machine-Interface) for Material Handling Machinery.</p>
+								</div>
+							</div>
+						</li>
+						<li class="animate-box timeline-unverted">
+							<div class="timeline-badge"><i class="icon-suitcase"></i></div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<h3 class="timeline-title">Technician & Sales</h3>
+									<span class="company"><a href="https://www.area51.de/" target="_blank">Area51 Handels GmbH (Germany) | 2001 - 2004</a></span>
+								</div>
+								<div class="timeline-body">
+									<p>Repairing customer computers and assisting customers on new purchases or upgrades. Business customers support with hardware, software and network problems.</p>
+								</div>
+							</div>
+						</li>
+
+						<br>
+						<li class="timeline-heading text-center animate-box">
+							<div><h3>Education</h3></div>
+						</li>
+						<li class="animate-box timeline-inverted">
+							<div class="timeline-badge"><i class="icon-graduation-cap"></i></div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<h3 class="timeline-title">Computer Systems Technologist (Diploma)</h3>
+									<span class="company"><a href="https://nait.ca/" target="_blank">Northern Alberta Institute of Tech. | 2008 - 2013</a></span>
+								</div>
+								<div class="timeline-body">
+									<p>Plan, write and implement business software solutions using ASP.NET, C#.NET and MS-SQL.</p>
+								</div>
+							</div>
+						</li>
+						<li class="timeline-unverted animate-box">
+							<div class="timeline-badge"><i class="icon-graduation-cap"></i></div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<h3 class="timeline-title">Electrical. Eng. Technologist (Diploma)</h3>
+									<span class="company"><a href="https://www.agb-loehne.de/" target="_blank">August-Griese-Berufskollegs | 2001 - 2004</a></span>
+								</div>
+								<div class="timeline-body">
+									<p>Electrical and Electronics Engineering with focus on Machine Automation Technology and Microcontroller solutions.</p>
+								</div>
+							</div>
+						</li>
+
+						<br>
+						<li class="timeline-heading text-center animate-box">
+							<div><h3>Certifications</h3></div>
+						</li>
+						<li class="animate-box timeline-inverted">
+							<div class="timeline-badge"><i class="icon-graduation-cap"></i></div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<h3 class="timeline-title">Cisco Certified Network Associate (CCNA)</h3>
+									<span class="company"><a href="https://nait.ca/" target="_blank">Northern Alberta Institute of Tech. | 2017</a></span>
+								</div>
+								<div class="timeline-body">
+									<p>Cisco Certificate - Networking Fundamentals, IP Services, Security Fundamentals, Automation and Programmability.</p>
+								</div>
+							</div>
+						</li>
+			    	</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+
+	<div id="fh5co-features" class="animate-box">
+		<div class="container">
+			<div class="services-padding">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+						<h2>Soft Skills</h2>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-4 text-center">
+						<div class="feature-left">
+							<span class="icon">
+								<i class="icon-chat"></i>
+							</span>
+							<div class="feature-copy">
+								<h3>Communication</h3>
+								<p>Without timely and open communication, nothing will get done. Its that simple.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 text-center">
+						<div class="feature-left">
+							<span class="icon">
+								<i class="icon-briefcase"></i>
+							</span>
+							<div class="feature-copy">
+								<h3>Project Management</h3>
+								<p>Large or small, it does not matter. A successful outcome is what matters.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 text-center">
+						<div class="feature-left">
+							<span class="icon">
+								<i class="icon-search"></i>
+							</span>
+							<div class="feature-copy">
+								<h3>Teachable</h3>
+								<p>Lifelong learning also means personal growth.<br>I want to keep learning and stay motivated.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-4 text-center">
+						<div class="feature-left">
+							<span class="icon">
+								<i class="icon-bargraph"></i>
+							</span>
+							<div class="feature-copy">
+								<h3>Adaptable</h3>
+								<p>What good does a rigid mindset do?<br>Seeking, looking and adapting to change will bring success.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 text-center">
+						<div class="feature-left">
+							<span class="icon">
+								<i class="icon-genius"></i>
+							</span>
+							<div class="feature-copy">
+								<h3>Teamwork</h3>
+								<p>Working with a team and valuing each and every person is key to any project. Everyone comes with a unique skillset.</p>
+							</div>
+						</div>
+
+					</div>
+					<div class="col-md-4 text-center">
+						<div class="feature-left">
+							<span class="icon">
+								<i class="icon-paintbrush"></i>
+							</span>
+							<div class="feature-copy">
+								<h3>Problem Solving</h3>
+								<p>Whether hardware or software bug,<br>I will find and resolve it.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- <div id="fh5co-skills" class="animate-box">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+					<h2>Tech. Skills</h2>
+				</div>
+			</div>
+			<div class="row row-pb-md">
+				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
+					<div class="chart" data-percent="80"><span><strong>HTML5</strong>80%</span></div>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
+					<div class="chart" data-percent="50"><span><strong>CSS3</strong>50%</span></div>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
+					<div class="chart" data-percent="65"><span><strong>Javascript</strong>65%</span></div>
+				</div>
+
+				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
+					<div class="chart" data-percent="65"><span><strong>Python</strong>65%</span></div>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
+					<div class="chart" data-percent="75"><span><strong>SQL</strong>75%</span></div>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
+					<div class="chart" data-percent="80"><span><strong>KVM/LXC</strong>80%</span></div>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
+					<div class="chart" data-percent="85"><span><strong>Linux</strong>85%</span></div>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
+					<div class="chart" data-percent="70"><span><strong>#!/bin/bash</strong>70%</span></div>
+				</div>
+			</div>
+			 <div class="row">
+				<div class="col-md-6">
+					<div class="progress-wrap">
+						<h3><span class="name-left">Hosting (KVM, LXC, docker)/DevOps</span><span class="value-right">85%</span></h3>
+						<div class="progress">
+						  <div class="progress-bar progress-bar-1 progress-bar-striped active" role="progressbar"
+						  aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width:85%">
+						  </div>
+						</div>
+					</div>
+					<div class="progress-wrap">
+						<h3><span class="name-left">Windows Server/Ubuntu Server</span><span class="value-right">85%</span></h3>
+						<div class="progress">
+						  <div class="progress-bar progress-bar-2 progress-bar-striped active" role="progressbar"
+						  aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width:85%">
+						  </div>
+						</div>
+					</div>
+					<div class="progress-wrap">
+						<h3><span class="name-left">Networking (Cisco)</span><span class="value-right">80%</span></h3>
+						<div class="progress">
+						  <div class="progress-bar progress-bar-3 progress-bar-striped active" role="progressbar"
+						  aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+						  </div>
+						</div>
+					</div>
+					<div class="progress-wrap">
+						<h3><span class="name-left">STEP7/Profibus/ProfiNET/Modbus</span><span class="value-right">95%</span></h3>
+						<div class="progress">
+						  <div class="progress-bar progress-bar-4 progress-bar-striped active" role="progressbar"
+						  aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width:95%">
+						  </div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="progress-wrap">
+						<h3><span class="name-left">Project Management</span><span class="value-right">100%</span></h3>
+						<div class="progress">
+						  <div class="progress-bar progress-bar-5 progress-bar-striped active" role="progressbar"
+						  aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width:100%">
+						  </div>
+						</div>
+					</div>
+					<div class="progress-wrap">
+						<h3><span class="name-left">Design</span><span class="value-right">100%</span></h3>
+						<div class="progress">
+						  <div class="progress-bar progress-bar-striped active" role="progressbar"
+						  aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width:100%">
+						  </div>
+						</div>
+					</div>
+					<div class="progress-wrap">
+						<h3><span class="name-left">Website Hosting (nginx,SSL)</span><span class="value-right">90%</span></h3>
+						<div class="progress">
+						  <div class="progress-bar progress-bar-1 progress-bar-striped active" role="progressbar"
+						  aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+						  </div>
+						</div>
+					</div>
+					<div class="progress-wrap">
+						<h3><span class="name-left">Problem Solver</span><span class="value-right">100%</span></h3>
+						<div class="progress">
+						  <div class="progress-bar progress-bar-3 progress-bar-striped active" role="progressbar"
+						  aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width:100%">
+						  </div>
+						</div>
+					</div>
+				</div>
+			</div> 
+		</div>
+	</div> -->
+
+	<div id="fh5co-work" class="animate-box">
+		<div class="container">
+			<div class="row animate-box">
+				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+					<h2>Work</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-3 text-center col-padding animate-box">
+					<a href="#" class="work" style="background-image: url(images/portfolio-1.jpg);">
+						<div class="desc">
+							<h3>3000 ton Press</h3>
+							<span>Electrical Retrofit & <br>New Control System<br>(Siemens STEP7)<br>Elect & Hydr. Support</span>
+							<span><strong><br>Skills</strong><br>Project Mgmt<br>Electrical<br>Programming & HMI Design</span>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-3 text-center col-padding animate-box">
+					<a href="#" class="work" style="background-image: url(images/portfolio-2.jpg);">
+						<div class="desc">
+							<h3>Hydraulic Gate</h3>
+							<span>Electrical Retrofit & <br>New Control System<br>(Siemens Logo)<br>Access Control System<br>Elect. Support</span>
+							<span><strong><br>Skills</strong><br>Project Mgmt<br>Electrical & Programming</span>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-3 text-center col-padding animate-box">
+					<a href="#" class="work" style="background-image: url(images/portfolio-3.jpg);">
+						<div class="desc">
+							<h3>Metal Cutting System</h3>
+							<span>Retrofit Planning<br>Electrical Retrofit<br>Elect. Support</span>
+							<span><strong><br>Skills</strong><br>Project Mgmt<br>Electrical</span>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-3 text-center col-padding animate-box">
+					<a href="#" class="work" style="background-image: url(images/portfolio-4.jpg);">
+						<div class="desc">
+							<h3>Metal Marking System</h3>
+							<span>Implementing Steel-<br> Marking System<br>Process Improvement<br></span>
+							<span><br><strong>Skills</strong><br>Project Mgmt</span>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-3 text-center col-padding animate-box">
+					<a href="http://www.royalpharm.ca/" target="_blank" class="work" style="background-image: url(images/portfolio-5.jpg);">
+						<div class="desc">
+							<h3>Royal Pharmacy Ltd</h3>
+							<span>Design & Host<br>Digital Business Card</span>
+							<span><br><strong>Skills</strong><br>HTML/CSS/JS<br>Hosting</span>
+						</div>
+					</a>
+				</div>
+				<!-- <div class="col-md-3 text-center col-padding animate-box">
+					<a href="#" class="work" style="background-image: url(images/portfolio-6.jpg);">
+						<div class="desc">
+							<h3>Project Name</h3>
+							<span>Illustration</span>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-3 text-center col-padding animate-box">
+					<a href="#" class="work" style="background-image: url(images/portfolio-7.jpg);">
+						<div class="desc">
+							<h3>Project Name</h3>
+							<span>Brading</span>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-3 text-center col-padding animate-box">
+					<a href="#" class="work" style="background-image: url(images/portfolio-8.jpg);">
+						<div class="desc">
+							<h3>Project Name</h3>
+							<span>Illustration</span>
+						</div>
+					</a>
+				</div> -->
+			</div>
+			<!-- <div id="fh5co-contact">
+				<div class="overlay"></div>
+					<div class="row animate-box">
+						<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+							<h2>Hire Me!</h2>
+							<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit. Eos cumque dicta adipisci architecto culpa amet.</p>
+							<p><a href="#" class="btn btn-default btn-lg">Contact Us</a></p>
+						</div>
+					</div>
+			</div> -->
+		</div>
+	</div>
+
+	<!-- <div id="fh5co-blog">
+		<div class="container">
+			<div class="row animate-box">
+				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+					<h2>Post on Medium</h2>
+					<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4">
+					<div class="fh5co-blog animate-box">
+						<a href="#" class="blog-bg" style="background-image: url(images/portfolio-1.jpg);"></a>
+						<div class="blog-text">
+							<span class="posted_on">Mar. 15th 2016</span>
+							<h3><a href="#">Photoshoot On The Street</a></h3>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<ul class="stuff">
+								<li><i class="icon-heart2"></i>249</li>
+								<li><i class="icon-eye2"></i>308</li>
+								<li><a href="#">Read More<i class="icon-arrow-right22"></i></a></li>
+							</ul>
+						</div> 
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="fh5co-blog animate-box">
+						<a href="#" class="blog-bg" style="background-image: url(images/portfolio-2.jpg);"></a>
+						<div class="blog-text">
+							<span class="posted_on">Mar. 15th 2016</span>
+							<h3><a href="#">Surfing at Philippines</a></h3>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<ul class="stuff">
+								<li><i class="icon-heart2"></i>249</li>
+								<li><i class="icon-eye2"></i>308</li>
+								<li><a href="#">Read More<i class="icon-arrow-right22"></i></a></li>
+							</ul>
+						</div> 
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="fh5co-blog animate-box">
+						<a href="#" class="blog-bg" style="background-image: url(images/portfolio-3.jpg);"></a>
+						<div class="blog-text">
+							<span class="posted_on">Mar. 15th 2016</span>
+							<h3><a href="#">Capture Living On Uderwater</a></h3>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<ul class="stuff">
+								<li><i class="icon-heart2"></i>249</li>
+								<li><i class="icon-eye2"></i>308</li>
+								<li><a href="#">Read More<i class="icon-arrow-right22"></i></a></li>
+							</ul>
+						</div> 
+					</div>
+				</div>
+			</div>
+		</div>
+	</div> -->
+	
+	<!-- <div id="fh5co-started" class="fh5co-bg-dark">
+		<div class="overlay"></div>
+		<div class="container">
+			<div class="row animate-box">
+				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+					<h2>Hire Me!</h2>
+					<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit. Eos cumque dicta adipisci architecto culpa amet.</p>
+					<p><a href="#" class="btn btn-default btn-lg">Contact Us</a></p>
+				</div>
+			</div>
+		</div>
+	</div> -->
+
+	<div id="fh5co-consult">
+		<div class="video fh5co-video" style="background-image: url(images/cover_bg_1.jpg);">
+			<div class="overlay"></div>
+		</div>
+		<div class="choose animate-box">
+			<h2>Contact</h2>
+			<form action="#">
+				<div class="row form-group">
+					<div class="col-md-6">
+						<input type="text" id="fname" class="form-control" placeholder="Your firstname">
+					</div>
+				</div>
+				<div class="row form-group">
+					<div class="col-md-6">
+						<input type="text" id="lname" class="form-control" placeholder="Your lastname">
+					</div>
+				</div>
+
+				<div class="row form-group">
+					<div class="col-md-12">
+						<input type="text" id="email" class="form-control" placeholder="Your email address">
+					</div>
+				</div>
+
+				<div class="row form-group">
+					<div class="col-md-12">
+						<input type="text" id="subject" class="form-control" placeholder="Your subject of this message">
+					</div>
+				</div>
+
+				<div class="row form-group">
+					<div class="col-md-12">
+						<textarea name="message" id="message" cols="30" rows="10" class="form-control" placeholder="Say something about us"></textarea>
+					</div>
+				</div>
+				<div class="form-group">
+					<input type="submit" value="Send Message" class="btn btn-primary">
+				</div>
+
+			</form>	
+		</div>
+	</div>
+
+	<!-- <div id="map" class="fh5co-map"></div>
+	</div> -->
+	
+	<div id="fh5co-footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<p>&copy; 2022 Eddi Freiter <br>Designed by FreeHTML5.co</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="gototop js-top">
+		<a href="#" class="js-gotop"><i class="icon-arrow-up22"></i></a>
+	</div>
+	
+	<!-- jQuery -->
+	<script src="js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="js/jquery.waypoints.min.js"></script>
+	<!-- Stellar Parallax -->
+	<script src="js/jquery.stellar.min.js"></script>
+	<!-- Easy PieChart -->
+	<script src="js/jquery.easypiechart.min.js"></script>
+	<!-- Google Map
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCefOgb1ZWqYtj7raVSmN4PL2WkTrc-KyA&sensor=false"></script>-->
+	<script src="js/google_map.js"></script>
+	
+	<!-- Main -->
+	<script src="js/main.js"></script>
+
+	<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "e94149a33ba24853a49d284337f45ebf"}'></script><!-- End Cloudflare Web Analytics -->
+
+	</body>
+</html>
+
