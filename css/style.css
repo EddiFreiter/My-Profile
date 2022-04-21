@@ -250,7 +250,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-features .feature-left {
   margin-bottom: 40px;
-  float: left;
+  float: none;
 }
 @media screen and (max-width: 992px) {
   #fh5co-features .feature-left {
@@ -573,11 +573,6 @@ h1, h2, h3, h4, h5, h6, figure {
     margin-left: -10px !important;
   }
 }
-@media screen and (max-width: 992px) {
-  .timeline > li > .timeline-badge {
-    margin-left: -10px !important;
-  }
-}
 .timeline > li > .timeline-badge i {
   display: table-cell;
   vertical-align: middle;
@@ -587,9 +582,26 @@ h1, h2, h3, h4, h5, h6, figure {
 .timeline > li.timeline-unverted {
   text-align: right;
 }
+@media screen and (max-width: 992px) {
+  .timeline > li > .timeline-badge {
+    margin-left: -10px !important;
+  }
+  .timeline > li.timeline-unverted {
+    text-align: left;
+  }
+  .cv-boxes-right {
+    border-right: none;
+    border-left: 3px lightgray solid;
+    padding: 10px;
+  }
+}
 @media screen and (max-width: 768px) {
   .timeline > li.timeline-unverted {
     text-align: left;
+  }
+  cv-boxes-right {
+    border-left: 3px lightgray solid;
+    padding: 10px;
   }
 }
 .timeline > li.timeline-inverted > .timeline-panel {
@@ -944,6 +956,11 @@ h1, h2, h3, h4, h5, h6, figure {
   -moz-flex-wrap: wrap;
   width: 100%;
   float: left;
+  background: rgb(0,99,143);
+  background: linear-gradient(160deg, rgba(0,99,143,1) 10%, rgba(75,152,186,1) 50%, rgba(150,223,255,1) 90%);
+}
+#fh5co-consult h2 {
+  color: #fff;
 }
 #fh5co-consult .video, #fh5co-consult .choose {
   display: inline-block;
@@ -975,7 +992,8 @@ h1, h2, h3, h4, h5, h6, figure {
   }
 }
 #fh5co-consult .choose {
-  width: 50%;
+  margin: auto;
+  width: 65%;
   padding: 4em;
 }
 @media screen and (max-width: 768px) {
@@ -1043,7 +1061,7 @@ h1, h2, h3, h4, h5, h6, figure {
   -o-box-shadow: none;
   box-shadow: none;
   border: none;
-  border: 2px solid rgba(0, 0, 0, 0.1);
+  border: 2px solid rgb(255, 255, 255);
   font-size: 18px;
   font-weight: 300;
   -webkit-border-radius: 4px;
@@ -1053,7 +1071,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .form-control:focus, .form-control:active {
   box-shadow: none;
-  border: 2px solid rgba(0, 0, 0, 0.8);
+  border: 2px solid rgb(255, 255, 255);
 }
 
 input[type="text"] {
@@ -1274,7 +1292,7 @@ input[type="text"] {
 
 .form-control {
   box-shadow: none;
-  background: transparent;
+  background: white;
   border: 2px solid rgba(0, 0, 0, 0.1);
   height: 54px;
   font-size: 18px;
@@ -1283,7 +1301,7 @@ input[type="text"] {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #4b98ba;
+  border-color: #000000;
 }
 
 .row-pb-md {
